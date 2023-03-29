@@ -33,7 +33,7 @@ Better Luck Next Time!""")
         guess=int(input("Guess the lower number: "))
 
 
-#for right guess
+#for right guess 
 if guess==num:
     print(f"CONGRATS! you guess the correct number {num}.you took {count + 1} times to guess the number")
 
