@@ -4,7 +4,7 @@ import time
 
 print("""Hey! I'm Parul Sharma here, I hope you are doing great. 
 WELCOME to the NUMBER GUESSING GAME.
-I am going to pick a number between 1 and 100.
+I am going to pick a number between 1 and 100. 
 You have to guess that number within 10 attempts.
 GOOD LUCK! """)
 
